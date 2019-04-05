@@ -35,6 +35,14 @@ def class_text_to_int(row_label):
         return 2
     elif row_label == 'joy':
         return 3
+    elif row_label == 'surprise':
+        return 4
+    elif row_label == 'anger':
+        return 5
+    elif row_label == 'disgust':
+	    return 6
+    elif row_label == 'fear':
+        return 7
     else:
         None
 

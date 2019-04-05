@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>train</folder>
 	<filename>s021-02_img.bmp</filename>
-	<path>/home/tasja/Рабочий стол/xml_to_csv/images/s021-02_img.bmp</path>
+	<path>/content/files/images/train/s021-02_img.bmp</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>222</xmin>
 			<ymin>102</ymin>
-			<xmax>428</xmax>
-			<ymax>410</ymax>
+			<xmax>426</xmax>
+			<ymax>436</ymax>
 		</bndbox>
 	</object>
 </annotation>
