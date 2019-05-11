@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>s010-01_img.bmp</filename>
+	<path>/content/files/images/train/s010-01_img.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>joy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>85</ymin>
+			<xmax>408</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>
